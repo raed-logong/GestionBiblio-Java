@@ -1,4 +1,4 @@
-# GestionBiblio-Java
+# GestionBiblio-Java Console Application 
 
 Gestion bibliotheque Using Java Language
 
