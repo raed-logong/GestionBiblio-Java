@@ -1,0 +1,9 @@
+.idea/
+.bin/
+lib/
+.classpath
+.POO project.iml
+.project
+
+# Project exclude paths
+/bin/
